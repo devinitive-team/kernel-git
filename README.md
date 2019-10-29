@@ -1,5 +1,5 @@
 # kernel-git
-
+#haha dodawanko
 ## Zadanie do wykonania!
 Najpierw rozpoznaj sytuację oraz zobacz na którym branchu się znajdujesz:
 ```bash
