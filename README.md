@@ -52,3 +52,4 @@ Wejdź teraz na GitHub i stwórz nowego Pull Requesta prosząc osobę siedzącą
 Po zaakceptowaniu przez nią jakości twoich zmian zmerguj PR do mastera.
 
 Na końcu stwórz nowy Issue do Repozytorium, w którym powiesz nam co sądzisz o dzisiejszych warsztatach.
+fin
