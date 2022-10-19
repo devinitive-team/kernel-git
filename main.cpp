@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-	cout<<"Hello git!";
+	cout<<"Hello git new!";
 	return 0;
 }
